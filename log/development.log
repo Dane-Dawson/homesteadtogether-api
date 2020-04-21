@@ -1,0 +1,12 @@
+  [1m[35m (1.3ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_test" ENCODING = 'unicode'[0m
+  [1m[35m (40.2ms)[0m  [1m[35mDROP DATABASE IF EXISTS "homesteadtogether_api_development"[0m
+  [1m[35m (33.5ms)[0m  [1m[35mDROP DATABASE IF EXISTS "homesteadtogether_api_test"[0m
+  [1m[35m (145.1ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (98.6ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_test" ENCODING = 'unicode'[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_test" ENCODING = 'unicode'[0m
+  [1m[35m (30.5ms)[0m  [1m[35mDROP DATABASE IF EXISTS "homesteadtogether_api_development"[0m
+  [1m[35m (44.9ms)[0m  [1m[35mDROP DATABASE IF EXISTS "homesteadtogether_api_test"[0m
+  [1m[35m (166.8ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (99.0ms)[0m  [1m[35mCREATE DATABASE "homesteadtogether_api_test" ENCODING = 'unicode'[0m
